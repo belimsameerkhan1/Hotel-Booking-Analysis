@@ -12,9 +12,8 @@ High Churn:** Identified a 37% overall cancellation rate.
 Segment Analysis:** Couples are the primary booking demographic.
 * **Seasonality:** September peak identified for strategic planning.
 
- 🖼️ Preview
-![Dashboard Preview](image_2.png) 
-
-
+ 🖼️ To View The Presentation
+ Download the 'Presentation 2' file from this repository.
+ 
  📂 How to View
 Download the `hotel_bookings.xlsx` file from this repository to interact with the slicers and filters.
